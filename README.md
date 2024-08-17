@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @34codezak
+- 👋 Hi, I’m Zachary.
 - 👀 I’m interested in Web Development, AI & ML.
 - 🌱 I’m progressively learning.
 - 💞️ I’m looking to collaborate on projects that anyone wishes to have my help.
