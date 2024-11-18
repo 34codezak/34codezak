@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zachary.
-- 👀 I’m interested in Web Development, AI & ML.
+- 👀 I’m interested in Web Development, Mobile Development, AI, & ML.
 - 🌱 I’m progressively learning.
 - 💞️ I’m looking to collaborate on projects that anyone wishes to have my help.
 - 📫 How to reach me: zacharyz4qke@gmail.com
