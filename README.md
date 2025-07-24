@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Zachary.
 - 👀 I’m interested in Web Development, Mobile Development, DevOps, Blockchain, and Database management systems.
 - 🌱 I’m progressively learning.
-- 💞️ I’m looking to collaborate on projects that anyone wishes to have my help.
+- I’m looking to collaborate on projects that anyone wishes to have my help.
 - 📫 How to reach me: zacharykmoni@gmail.com
 - ⚡ Fun fact: Planning is important, but the most important part of every plan is  to plan on the plan not going according to the plan.
 
