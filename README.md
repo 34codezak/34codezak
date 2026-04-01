@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zachary.
-- 👀 I’m interested in Web Development, Mobile Development, Automation, DevOps, Blockchain, and Database management systems.
+- 👀 I’m interested in Web Development, Automation, DevOps, Blockchain, and Database management systems.
 - 🌱 I’m progressively learning.
 - I’m looking to collaborate on projects that anyone wishes to have my help.
 - 📫 How to reach me: zacharykmoni@gmail.com
