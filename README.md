@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Zachary.
+- 👋.
 - 👀 I’m interested in Backend Development, Automation, DevOps, Blockchain, Systems Engineering and AI+ML.
 - 🌱 I’m progressively learning.
 - I’m looking to collaborate on projects that anyone wishes to have my help.
